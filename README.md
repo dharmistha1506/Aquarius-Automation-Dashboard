@@ -59,7 +59,7 @@ This project was developed for a real company use case. Due to privacy and secur
 
 ---
 
-## ⚙️ Automation with Task Scheduler
+## Automation with Task Scheduler
   - Windows Task Scheduler executes the Python script at scheduled intervals.
   - Fully automated process ensures **no manual intervention**.
   - VS Code is used only for development/testing; production runs use the `.py` file.
